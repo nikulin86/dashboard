@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dashboard/static/css/main.d92d32e3.css",
+    "main.js": "/dashboard/static/js/main.190728f6.js",
+    "static/media/expenseLogo5.png": "/dashboard/static/media/expenseLogo5.987abc1cc8e1fae7374e.png",
+    "static/media/expenseLogo4.png": "/dashboard/static/media/expenseLogo4.2bd25e04f3c4c40ebb27.png",
+    "static/media/expenseLogo2.png": "/dashboard/static/media/expenseLogo2.d77d33a0c43ef2839aa8.png",
+    "static/media/expenseLogo6.png": "/dashboard/static/media/expenseLogo6.3debb643bbb97747b826.png",
+    "static/media/expenseLogo7.png": "/dashboard/static/media/expenseLogo7.cd6fc65828e8c691a311.png",
+    "static/media/wallet2.png": "/dashboard/static/media/wallet2.183552a5edf672b2dee0.png",
+    "static/media/expenseLogo1.png": "/dashboard/static/media/expenseLogo1.34e55710bd018b86e9e5.png",
+    "static/media/wallet1.png": "/dashboard/static/media/wallet1.91dd5a762535b1b469c6.png",
+    "static/media/expenseLogo3.png": "/dashboard/static/media/expenseLogo3.37a901982c2e28ac7449.png",
+    "index.html": "/dashboard/index.html",
+    "main.d92d32e3.css.map": "/dashboard/static/css/main.d92d32e3.css.map",
+    "main.190728f6.js.map": "/dashboard/static/js/main.190728f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d92d32e3.css",
+    "static/js/main.190728f6.js"
+  ]
+}
